@@ -11,3 +11,5 @@ Please fork and then issue pull request for review
 
 ### Copyright
 2015 Git.Training
+
+## MORE TEXT
