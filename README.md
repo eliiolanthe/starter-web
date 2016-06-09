@@ -13,3 +13,4 @@ Please fork and then issue pull request for review
 2015 Git.Training
 
 ## MORE TEXT
+This is for rebasing purposes :)
